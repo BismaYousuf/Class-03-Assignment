@@ -73,7 +73,7 @@ export default function Home() {
 
 <div className="flex justify-evenly p-40 text-black">
 
-<Link href={'https://github.com/bismayousuf'}>  
+<Link href={'https://github.com/BismaYousuf/Class-03-Assignment'}>  
 
 <Image src={'/github.jpeg'}
       alt="github"
